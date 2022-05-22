@@ -1,0 +1,73 @@
+{
+    "books": [{
+            "id": 1,
+            "title": "The Road to React: Your journey to master plain yet pragmatic React.js",
+            "author": "Robin Wieruch",
+            "price": 50,
+            "coverImage": "https://images-na.ssl-images-amazon.com/images/I/41AJiI9AyyL._SX384_BO1,204,203,200_.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Pro React 16",
+            "author": "Adam Freeman",
+            "price": 67,
+            "coverImage": "https://images-na.ssl-images-amazon.com/images/I/41W9YdrRslL._SX348_BO1,204,203,200_.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Fullstack React: The Complete Guide to ReactJS and Friends",
+            "author": "Anthony Accomazzo, Nate Murray",
+            "price": 32,
+            "coverImage": "https://images-na.ssl-images-amazon.com/images/I/51CMUOgy8HL._SX384_BO1,204,203,200_.jpg"
+        },
+        {
+            "id": 4,
+            "title": "React and React Native: A complete hands-on guide to modern web and mobile development with React.js",
+            "author": "Adam Boduch, Roy Derks",
+            "price": 45,
+            "coverImage": "https://images-na.ssl-images-amazon.com/images/I/51noIwSubgL._SX404_BO1,204,203,200_.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Learning React: Modern Patterns for Developing React Apps 2nd Edition",
+            "author": "Alex Banks, Eve Porcello",
+            "price": 55,
+            "coverImage": "https://images-na.ssl-images-amazon.com/images/I/51Kwaw5nInL._SX379_BO1,204,203,200_.jpg"
+        },
+        {
+            "id": 6,
+            "title": "Learning React: A Hands-On Guide to Building Web Applications Using React and Redux",
+            "author": "Kirupa Chinnathambi",
+            "price": 33,
+            "coverImage": "https://images-na.ssl-images-amazon.com/images/I/51bBG0BOZwL._SX385_BO1,204,203,200_.jpg"
+        },
+        {
+            "id": 7,
+            "title": "Fullstack React Native: Create beautiful mobile apps with JavaScript and React Native",
+            "author": "Devin Abbott, Houssein Djirdeh, Anthony Accomazzo, Sophia Shoemaker",
+            "price": 49,
+            "coverImage": "https://images-na.ssl-images-amazon.com/images/I/51071Pm5H7L._SX404_BO1,204,203,200_.jpg"
+        },
+        {
+            "id": 8,
+            "title": "React Explained: Your Step-by-Step Guide to React",
+            "author": "Zac Gordon, Mikall Angela Hill, Robbie Adair",
+            "price": 69,
+            "coverImage": "https://images-na.ssl-images-amazon.com/images/I/4181vLK8kpL._SX331_BO1,204,203,200_.jpg"
+        },
+        {
+            "id": 9,
+            "title": "Beginning React (incl. Redux and React Hooks)",
+            "author": "Greg Lim",
+            "price": 67,
+            "coverImage": "https://images-na.ssl-images-amazon.com/images/I/41iau0FNmNL._SX404_BO1,204,203,200_.jpg"
+        },
+        {
+            "id": 10,
+            "title": "React Hooks in Action: With Suspense and Concurrent Mode",
+            "author": "John Larsen",
+            "price": 31,
+            "coverImage": "https://images-na.ssl-images-amazon.com/images/I/41iy2pQGh0L._SX397_BO1,204,203,200_.jpg"
+        }
+    ]
+}
